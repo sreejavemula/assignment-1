@@ -176,4 +176,6 @@ main .banner {
 main .banner img {
     width:80%;
     text-align: center;
+    top: 25px;
+    right:20px;
 }
